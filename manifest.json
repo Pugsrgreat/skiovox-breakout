@@ -4,7 +4,7 @@
     "name": "Skiovox Breakout",
     "description": "BETA DO NOT SHARE",
     "version": "0.0.1",
-    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhm3X7qutsrskke84ltokTObnFJakd/d0XFQ6Ox2wQueHTGJM5GUNPTY/x8bdreNtGnfzvt/Sd0vABbR0wsS6lz5yY+g6ksMXJnigFe9N7uz8E3KojDrl3xYjIe+mkiJo8yxxzPydgb7GjQ6jmsX3g+yjj67kXzm9rZFkmoZ5WmqwBZlguPYVRN/W8CIIqBZkC3Qmq6uSG7b/g93YbwqmTmGiL2sAzgvXtqvDOD6503abtQkRC795E4VjJd+ffyeRH38fAEz5ZIrA6GJsfmov1TZTIu1NTwqylSpBYl5as7C6gpmuxDV4SvHvGT2hMQuIufDhZhErjI3B7bcX+XLe1wIDAQAB",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlT6Ai1yvs/arkVLyTOjF6n65wjH/raNNifEkoOMcJwlxGEjnce1VUcxq4eqlSReZ3QByOp8/O6pg2P6Lnxqg5KJt4sIOcd1t4LBepSXlT/uqx7zRl2ROnYyrr7p28kessoCnxzqZ3MFMZWL2nvpJMz+p4unbqF30epr+gmZxu0ZHTiJG6H+r9fqcu7UjXxfgv9ivVHkEbcgOwZewdUT7xYd9+YZlMqgq2B9ZqKvZK/0W625xYIhpAiS+oxm8F/X2TujlRueQ1QReCV30gBXC2rzSCXuN4sFR5yDVN8mJXBEHekjNCbNXaN6h7f/lYSJQ+ye7KudiwGE1pxLlFAaVNQIDAQAB",
     "permissions": [
         "debugger",
         "downloads",
